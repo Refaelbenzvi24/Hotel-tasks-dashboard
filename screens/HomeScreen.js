@@ -9,7 +9,7 @@ import CreateTaskDialog from "../components/Dialogs/CreateTaskDialog";
 import {Animated} from "react-native";
 import {taskEndpoint} from "../services";
 import ConditionalRender from "../components/UI/Animation/ConditionalRender";
-import UseReachedViewBottom from "../hooks/useReachedViewBottom";
+import UseReachedViewBottom from "../utils/useReachedViewBottom";
 import Task from "../modules/Task";
 
 

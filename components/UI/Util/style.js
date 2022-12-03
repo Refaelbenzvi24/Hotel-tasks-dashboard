@@ -1,6 +1,5 @@
 const limitNumberWithinRange = (num, min, max) => Math.min(Math.max(num, min), max)
 
-
 const style = {
     shadow: (
                 depth,
