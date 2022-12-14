@@ -1,10 +1,10 @@
 # Hotel-tasks-dashboard
 
 <p float="left">
-    <img src=".github/assets/1.png" alt="drawing" width="240"/>
-    <img src=".github/assets/2.png" alt="drawing" width="240"/>
-    <img src=".github/assets/3.png" alt="drawing" width="240"/>
-    <img src=".github/assets/4.png" alt="drawing" width="240"/>
+    <img src=".github/assets/1.png" alt="drawing" width="200"/>
+    <img src=".github/assets/2.png" alt="drawing" width="200"/>
+    <img src=".github/assets/3.png" alt="drawing" width="200"/>
+    <img src=".github/assets/4.png" alt="drawing" width="200"/>
 </p>
 
 ## Table Of Content
