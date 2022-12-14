@@ -8,7 +8,7 @@
 ## Table Of Content
 
 - [Description](#Description)
-- [Running the project](#Running the project)
+- [Running the project](#Running-the-project)
 
 ## Description
 
